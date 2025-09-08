@@ -1,6 +1,5 @@
 # 🧠 Web開発クイズアプリ
 
-![Quiz Banner](https://img.shields.io/badge/HTML-CSS-JavaScript-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
@@ -23,16 +22,16 @@
 
 ---
 
-## 📂 Folder Structure
 
-quiz-app/
-├── index.html 
-├── style.css 
-├── script.js 
-└── audio/ 
-    ├── correct.mp3 
-    ├── wrong.mp3 
-    └── win.mp3
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/quiz-app.git
+   cd quiz-app
+
 
 📄 License
 This project is licensed under the MIT License. Feel free to fork, remix, and build upon it!
